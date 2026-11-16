@@ -1,0 +1,14 @@
+[shard 1] meta_lr__s1
+{"status": "done", "run_id": "meta_lr__s1", "minutes_this_session": 0.0, "best_val_bacc": 0.5222209506666924}
+[shard 1] cl__image__s0
+{"status": "done", "run_id": "cl__image__s0", "minutes_this_session": 2.9, "best_val_bacc": 0.607398549833237, "best_epoch": 34}
+[shard 1] cl__gated__s0
+{"status": "done", "run_id": "cl__gated__s0", "minutes_this_session": 2.0, "best_val_bacc": 0.7602797373374527, "best_epoch": 21}
+[shard 1] cl__image__s1
+{"status": "done", "run_id": "cl__image__s1", "minutes_this_session": 3.1, "best_val_bacc": 0.5946394161263949, "best_epoch": 45}
+[shard 1] cl__gated__s1
+{"status": "done", "run_id": "cl__gated__s1", "minutes_this_session": 1.6, "best_val_bacc": 0.7763639140745503, "best_epoch": 15}
+[shard 1] cl__image__s2
+{"status": "done", "run_id": "cl__image__s2", "minutes_this_session": 2.8, "best_val_bacc": 0.6571439380148444, "best_epoch": 34}
+[shard 1] cl__gated__s2
+{"status": "done", "run_id": "cl__gated__s2", "minutes_this_session": 1.0, "best_val_bacc": 0.7551919195503843, "best_epoch": 5}

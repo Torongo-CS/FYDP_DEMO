@@ -1,0 +1,16 @@
+[shard 0] meta_lr__s0
+{"status": "done", "run_id": "meta_lr__s0", "minutes_this_session": 0.0, "best_val_bacc": 0.5222209506666924}
+[shard 0] meta_lr__s2
+{"status": "done", "run_id": "meta_lr__s2", "minutes_this_session": 0.0, "best_val_bacc": 0.5222209506666924}
+[shard 0] cl__concat__s0
+{"status": "done", "run_id": "cl__concat__s0", "minutes_this_session": 1.1, "best_val_bacc": 0.7429314880304405, "best_epoch": 4}
+[shard 0] cl__xattn__s0
+{"status": "done", "run_id": "cl__xattn__s0", "minutes_this_session": 2.0, "best_val_bacc": 0.7243257380145137, "best_epoch": 22}
+[shard 0] cl__concat__s1
+{"status": "done", "run_id": "cl__concat__s1", "minutes_this_session": 0.9, "best_val_bacc": 0.7162352394259405, "best_epoch": 4}
+[shard 0] cl__xattn__s1
+{"status": "done", "run_id": "cl__xattn__s1", "minutes_this_session": 1.4, "best_val_bacc": 0.6993754511557683, "best_epoch": 12}
+[shard 0] cl__concat__s2
+{"status": "done", "run_id": "cl__concat__s2", "minutes_this_session": 1.2, "best_val_bacc": 0.7328333755226893, "best_epoch": 8}
+[shard 0] cl__xattn__s2
+{"status": "done", "run_id": "cl__xattn__s2", "minutes_this_session": 1.9, "best_val_bacc": 0.778028820378632, "best_epoch": 19}

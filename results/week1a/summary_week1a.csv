@@ -1,0 +1,16 @@
+run_id,status,best_val_bacc
+meta_lr__s0,done,0.5222209506666924
+meta_lr__s1,done,0.5222209506666924
+meta_lr__s2,done,0.5222209506666924
+cl__image__s0,done,0.607398549833237
+cl__concat__s0,done,0.7429314880304405
+cl__gated__s0,done,0.7602797373374527
+cl__xattn__s0,done,0.7243257380145137
+cl__image__s1,done,0.5946394161263949
+cl__concat__s1,done,0.7162352394259405
+cl__gated__s1,done,0.7763639140745503
+cl__xattn__s1,done,0.6993754511557683
+cl__image__s2,done,0.6571439380148444
+cl__concat__s2,done,0.7328333755226893
+cl__gated__s2,done,0.7551919195503843
+cl__xattn__s2,done,0.778028820378632
