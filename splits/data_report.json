@@ -1,0 +1,120 @@
+{
+ "images": 2298,
+ "patients": 1373,
+ "lesions": 1641,
+ "class_counts": {
+  "ACK": 730,
+  "BCC": 845,
+  "MEL": 52,
+  "NEV": 244,
+  "SCC": 192,
+  "SEK": 235
+ },
+ "missing_fraction": {
+  "age": 0.0,
+  "itch": 0.003,
+  "hurt": 0.004,
+  "bleed": 0.003,
+  "elevation": 0.001,
+  "region": 0.0
+ },
+ "fitzpatrick_counts": {
+  "1.0": 153,
+  "2.0": 876,
+  "3.0": 392,
+  "4.0": 62,
+  "5.0": 10,
+  "6.0": 1,
+  "NaN": 804
+ },
+ "region_counts": {
+  "FACE": 570,
+  "FOREARM": 392,
+  "CHEST": 280,
+  "BACK": 248,
+  "ARM": 192,
+  "NOSE": 158,
+  "HAND": 126,
+  "NECK": 93,
+  "THIGH": 73,
+  "EAR": 73,
+  "ABDOMEN": 36,
+  "LIP": 23,
+  "SCALP": 18,
+  "FOOT": 16
+ },
+ "missingness_audit": {
+  "age": {
+   "by_class": {
+    "ACK": 0.0,
+    "BCC": 0.0,
+    "MEL": 0.0,
+    "NEV": 0.0,
+    "SCC": 0.0,
+    "SEK": 0.0
+   },
+   "gap": 0.0,
+   "suspicious": false
+  },
+  "itch": {
+   "by_class": {
+    "ACK": 0.003,
+    "BCC": 0.0,
+    "MEL": 0.0,
+    "NEV": 0.004,
+    "SCC": 0.016,
+    "SEK": 0.0
+   },
+   "gap": 0.016,
+   "suspicious": false
+  },
+  "hurt": {
+   "by_class": {
+    "ACK": 0.001,
+    "BCC": 0.004,
+    "MEL": 0.0,
+    "NEV": 0.02,
+    "SCC": 0.005,
+    "SEK": 0.0
+   },
+   "gap": 0.02,
+   "suspicious": false
+  },
+  "bleed": {
+   "by_class": {
+    "ACK": 0.0,
+    "BCC": 0.006,
+    "MEL": 0.0,
+    "NEV": 0.004,
+    "SCC": 0.0,
+    "SEK": 0.0
+   },
+   "gap": 0.006,
+   "suspicious": false
+  },
+  "elevation": {
+   "by_class": {
+    "ACK": 0.0,
+    "BCC": 0.0,
+    "MEL": 0.019,
+    "NEV": 0.004,
+    "SCC": 0.0,
+    "SEK": 0.0
+   },
+   "gap": 0.019,
+   "suspicious": false
+  },
+  "region": {
+   "by_class": {
+    "ACK": 0.0,
+    "BCC": 0.0,
+    "MEL": 0.0,
+    "NEV": 0.0,
+    "SCC": 0.0,
+    "SEK": 0.0
+   },
+   "gap": 0.0,
+   "suspicious": false
+  }
+ }
+}
